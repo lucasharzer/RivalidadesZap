@@ -1,0 +1,6 @@
+# Arquivo de Configuração
+.env
+# Arquivo de pacotes do node js detalhado
+package-lock.json
+# Instalações do node js
+node_modules
