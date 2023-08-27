@@ -22,13 +22,7 @@ Obs: Ao executar pela primeira vez deve-se vincular o programa ao número do con
 Troca de mensagens:
 <span>
   <img src="https://github.com/lucasharzer/RivalidadesZap/assets/85804895/d2cddd51-cde1-4ac0-93df-4b71cabbed71">
-</span>
-
-<span>
   <img src="https://github.com/lucasharzer/RivalidadesZap/assets/85804895/4bf70230-6811-44cc-8d7f-fb28612ca599">
-</span>
-
-<span>
   <img src="https://github.com/lucasharzer/RivalidadesZap/assets/85804895/bdfeab9f-f2a6-4df4-9f07-73d4c6293ec8">
 </span>
 
